@@ -11,5 +11,4 @@ def perform_operation(num1, num2, operation):
             if num2 == 0:
                 return "Error: Division by zero"
             else:
-                return num1 + num2
-        
+                return num1 / num2
